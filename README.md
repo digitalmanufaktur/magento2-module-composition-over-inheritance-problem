@@ -1,0 +1,1 @@
+# magento2-module-composition-over-inheritance-problem
