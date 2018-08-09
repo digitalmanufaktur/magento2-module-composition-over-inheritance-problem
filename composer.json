@@ -1,0 +1,22 @@
+{
+    "name": "dmc/composition",
+    "description": "Composition over inheritance for Magento 2",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "OSL-3.0",
+    "require": {
+        "php": "*",
+        "magento/framework": "*"
+    },
+    "homepage": "https://github.com/digitalmanufaktur/magento2-module-composition-over-inheritance-problem",
+    "keywords": [
+        "magento2",
+        "composition",
+        "composite"
+    ],
+    "autoload": {
+        "psr-4": {
+            "DMC\\Composition\\": "src/"
+        }
+    }
+}
